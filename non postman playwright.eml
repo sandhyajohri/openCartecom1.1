@@ -1,0 +1,131 @@
+MIME-Version: 1.0
+Date: Tue, 5 Mar 2024 14:47:45 -0600
+Message-ID: <CANqbT2HkPNKbePybOYP6uP2b6wCc+1HA7ZXPU6qRGWAhm=QLWQ@mail.gmail.com>
+Subject: non postman playwright
+From: Sandhya Johri <sandhyajohri@gmail.com>
+To: Sandhya Johri <sandhyajohri@gmail.com>
+Content-Type: multipart/alternative; boundary="0000000000005919a70612eff41d"
+
+--0000000000005919a70612eff41d
+Content-Type: text/plain; charset="UTF-8"
+
+[2:33 PM] Adam Kelm
+
+So, I've been working on a non-Postman api test suite using Playwright and
+typescript, which looks pretty promising and avoids some of the issues with
+Postman (hard to version, increasingly pushing features to paid versions
+only, the newman test runner no longer actively maintained). I've built
+some of the SP TUF flows into it (but not yet in vcs) and ps-api-pa, which
+*is* in bitbucket. If anyone wants to check it out, see
+https://bitbucket.org/ontsys/ps-api-pa-playwright/src/main/ and let me know
+if you want to try it out. There are a couple .env files for dev and qc
+that I didn't want to commit
+
+[2:38 PM] Brian Mielke
+
+Have you glanced at the oasis Jenkinsfile setup and seen if we can add a
+stage into it without too much effort to add a playright step?
+
+[2:39 PM] Brian Mielke
+
+Also have you considered just having this in the ps-api-pa repo, so we
+don't have too many repos?   If we can run it from inside the ps-api-pa
+repo, it would be better off then we can lock in versions of the tests to
+the versions of the code more easily.
+
+[2:40 PM] Adam Kelm
+
+The jenkinsfile setup isn't bad at all. My plan was to run it *from* the
+ps-api-pa repo, but just by making a reference to it. I think it's better
+to keep them separate though. They're very different projects.
+
+[2:42 PM] Adam Kelm
+
+The only thing we need to figure out to get it running in the pipeline
+would be how to encrypt/decrypt these .env files for use in the
+pipeline...unless we just wanna yolo it and commit the .env files with api
+keys etc
+
+[2:42 PM] Brian Mielke
+
+It's been a while since I tried tweaking an oasis style Jenkinsfile, which
+I have only done so far to modify approver lists.  I recall the stages of
+their processes being very built into libraries in their jenksinfiles
+instead of how our's are normally more setup fully for the repo in question
+with a few calls to common code, (oasis is mostly a call to a lot of common
+code with a dash of config)
+
+[2:43 PM] Brian Mielke
+
+Their devops team can help us encrypt/decrypt keys, but AFIAK I think I've
+got permissions/access to get the keys setup properly in ps-api-pa for all
+stacks but the prod one.
+
+--0000000000005919a70612eff41d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div dir=3D"ltr"><span class=3D"gmail-ui-provider gmail-a =
+gmail-b gmail-c gmail-d gmail-e gmail-f gmail-g gmail-h gmail-i gmail-j gma=
+il-k gmail-l gmail-m gmail-n gmail-o gmail-p gmail-q gmail-r gmail-s gmail-=
+t gmail-u gmail-v gmail-w gmail-x gmail-y gmail-z gmail-ab gmail-ac gmail-a=
+e gmail-af gmail-ag gmail-ah gmail-ai gmail-aj gmail-ak" dir=3D"ltr"><span =
+style=3D"font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,=
+system-ui,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,&quot;Se=
+goe UI Web&quot;,sans-serif;font-size:14px;white-space:pre-wrap"><p style=
+=3D"margin:0px">[2:33 PM] Adam Kelm</p><p>So, I&#39;ve been working on a no=
+n-Postman api test suite using Playwright and typescript, which looks prett=
+y promising and avoids some of the issues with Postman (hard to version, in=
+creasingly pushing features to paid versions only, the newman test runner n=
+o longer actively maintained). I&#39;ve built some of the SP TUF flows into=
+ it (but not yet in vcs) and ps-api-pa, which <i>is</i> in bitbucket. If an=
+yone wants to check it out, see <a href=3D"https://bitbucket.org/ontsys/ps-=
+api-pa-playwright/src/main/" rel=3D"noreferrer noopener" title=3D"https://b=
+itbucket.org/ontsys/ps-api-pa-playwright/src/main/" target=3D"_blank">https=
+://bitbucket.org/ontsys/ps-api-pa-playwright/src/main/</a> and let me know =
+if you want to try it out. There are a couple .env files for dev and qc tha=
+t I didn&#39;t want to commit</p></span><span style=3D"font-family:-apple-s=
+ystem,BlinkMacSystemFont,&quot;Segoe UI&quot;,system-ui,&quot;Apple Color E=
+moji&quot;,&quot;Segoe UI Emoji&quot;,&quot;Segoe UI Web&quot;,sans-serif;f=
+ont-size:14px;white-space:pre-wrap"><p style=3D"margin:0px">[2:38 PM] Brian=
+ Mielke</p><p>Have you glanced at the oasis Jenkinsfile setup and seen if w=
+e can add a stage into it without too much effort to add a playright step?<=
+/p></span><span style=3D"font-family:-apple-system,BlinkMacSystemFont,&quot=
+;Segoe UI&quot;,system-ui,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoj=
+i&quot;,&quot;Segoe UI Web&quot;,sans-serif;font-size:14px;white-space:pre-=
+wrap"><p style=3D"margin:0px">[2:39 PM] Brian Mielke</p><p>Also have you co=
+nsidered just having this in the ps-api-pa repo, so we don&#39;t have too m=
+any repos? =C2=A0 If we can run it from inside the ps-api-pa repo, it would=
+ be better off then we can lock in versions of the tests to the versions of=
+ the code more easily.</p></span><span style=3D"font-family:-apple-system,B=
+linkMacSystemFont,&quot;Segoe UI&quot;,system-ui,&quot;Apple Color Emoji&qu=
+ot;,&quot;Segoe UI Emoji&quot;,&quot;Segoe UI Web&quot;,sans-serif;font-siz=
+e:14px;white-space:pre-wrap"><p style=3D"margin:0px">[2:40 PM] Adam Kelm</p=
+><p>The jenkinsfile setup isn&#39;t bad at all. My plan was to run it <i>fr=
+om</i> the ps-api-pa repo, but just by making a reference to it. I think it=
+&#39;s better to keep them separate though. They&#39;re very different proj=
+ects.</p></span><span style=3D"font-family:-apple-system,BlinkMacSystemFont=
+,&quot;Segoe UI&quot;,system-ui,&quot;Apple Color Emoji&quot;,&quot;Segoe U=
+I Emoji&quot;,&quot;Segoe UI Web&quot;,sans-serif;font-size:14px;white-spac=
+e:pre-wrap"><p style=3D"margin:0px">[2:42 PM] Adam Kelm</p><p>The only thin=
+g we need to figure out to get it running in the pipeline would be how to e=
+ncrypt/decrypt these .env files for use in the pipeline...unless we just wa=
+nna yolo it and commit the .env files with api keys etc</p></span><span sty=
+le=3D"font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,sys=
+tem-ui,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,&quot;Segoe=
+ UI Web&quot;,sans-serif;font-size:14px;white-space:pre-wrap"><p style=3D"m=
+argin:0px">[2:42 PM] Brian Mielke</p><p>It&#39;s been a while since I tried=
+ tweaking an oasis style Jenkinsfile, which I have only done so far to modi=
+fy approver lists.=C2=A0 I recall the stages of their processes being very =
+built into libraries in their jenksinfiles instead of how our&#39;s are nor=
+mally more setup fully for the repo in question with a few calls to common =
+code, (oasis is mostly a call to a lot of common code with a dash of config=
+)</p></span><span style=3D"font-family:-apple-system,BlinkMacSystemFont,&qu=
+ot;Segoe UI&quot;,system-ui,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Em=
+oji&quot;,&quot;Segoe UI Web&quot;,sans-serif;font-size:14px;white-space:pr=
+e-wrap"><p style=3D"margin:0px">[2:43 PM] Brian Mielke</p><p>Their devops t=
+eam can help us encrypt/decrypt keys, but AFIAK I think I&#39;ve got permis=
+sions/access to get the keys setup properly in ps-api-pa for all stacks but=
+ the prod one.</p></span></span></div></div>
+
+--0000000000005919a70612eff41d--
