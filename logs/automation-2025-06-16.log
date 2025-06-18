@@ -1,0 +1,53 @@
+22:08:00.869 [main] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my register link 
+22:08:03.119 [main] INFO  testCases.TC01_AccountRegistrationTest - *****provided customer details 
+22:08:03.167 [main] INFO  testCases.TC01_AccountRegistrationTest - ***** Finished TC01_AccountRegistrationTest *****
+22:08:07.146 [main] INFO  testCases.T02_LoginTest - **************Staring T02_LoginTest
+22:08:07.146 [main] INFO  testCases.T02_LoginTest - **************Staring home page
+22:08:07.677 [main] INFO  testCases.T02_LoginTest - **************clicked login link
+22:08:07.975 [main] INFO  testCases.T02_LoginTest - **************clicked login button
+22:08:13.339 [main] INFO  testCases.TC01_AccountRegistrationTest - *****Starting TC01_AccountRegistrationTest 
+22:08:13.483 [main] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my account link 
+22:08:14.205 [main] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my register link 
+22:08:15.928 [main] INFO  testCases.TC01_AccountRegistrationTest - *****provided customer details 
+22:08:15.957 [main] INFO  testCases.TC01_AccountRegistrationTest - ***** Finished TC01_AccountRegistrationTest *****
+22:08:20.651 [main] INFO  testCases.T02_LoginTest - **************Staring T02_LoginTest
+22:08:20.651 [main] INFO  testCases.T02_LoginTest - **************Staring home page
+22:08:21.180 [main] INFO  testCases.T02_LoginTest - **************clicked login link
+22:08:22.114 [main] INFO  testCases.T02_LoginTest - **************clicked login button
+22:08:29.334 [main] INFO  testCases.TC01_AccountRegistrationTest - *****Starting TC01_AccountRegistrationTest 
+22:08:29.578 [main] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my account link 
+22:08:30.250 [main] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my register link 
+22:08:31.742 [main] INFO  testCases.TC01_AccountRegistrationTest - *****provided customer details 
+22:08:31.761 [main] INFO  testCases.TC01_AccountRegistrationTest - ***** Finished TC01_AccountRegistrationTest *****
+22:08:39.486 [main] INFO  testCases.T02_LoginTest - **************Staring T02_LoginTest
+22:08:39.486 [main] INFO  testCases.T02_LoginTest - **************Staring home page
+22:08:40.101 [main] INFO  testCases.T02_LoginTest - **************clicked login link
+22:08:40.879 [main] INFO  testCases.T02_LoginTest - **************clicked login button
+22:09:29.578 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vivek\eclipse-workspaceSeleniumRestAssured\openCartecom1.1\crossbrowser.xml
+
+22:09:36.092 [TestNG-tests-3] INFO  testCases.TC01_AccountRegistrationTest - *****Starting TC01_AccountRegistrationTest 
+22:09:36.092 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest - *****Starting TC01_AccountRegistrationTest 
+22:09:36.093 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest - *****Starting TC01_AccountRegistrationTest 
+22:09:36.360 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my account link 
+22:09:36.578 [TestNG-tests-3] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my account link 
+22:09:36.797 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my account link 
+22:09:37.498 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my register link 
+22:09:37.524 [TestNG-tests-3] ERROR testCases.TC01_AccountRegistrationTest - test failed
+22:09:37.529 [TestNG-tests-1] ERROR testCases.TC01_AccountRegistrationTest - test failed
+22:09:37.532 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest - ***** Finished TC01_AccountRegistrationTest *****
+22:09:37.532 [TestNG-tests-3] INFO  testCases.TC01_AccountRegistrationTest - ***** Finished TC01_AccountRegistrationTest *****
+22:09:38.432 [TestNG-tests-2] ERROR testCases.TC01_AccountRegistrationTest - test failed
+22:09:38.432 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest - ***** Finished TC01_AccountRegistrationTest *****
+22:09:43.906 [TestNG-tests-1] INFO  testCases.T02_LoginTest - **************Staring T02_LoginTest
+22:09:43.907 [TestNG-tests-1] INFO  testCases.T02_LoginTest - **************Staring home page
+22:09:45.262 [TestNG-tests-2] INFO  testCases.T02_LoginTest - **************Staring T02_LoginTest
+22:09:45.262 [TestNG-tests-2] INFO  testCases.T02_LoginTest - **************Staring home page
+22:09:45.283 [TestNG-tests-3] INFO  testCases.T02_LoginTest - **************Staring T02_LoginTest
+22:09:45.283 [TestNG-tests-3] INFO  testCases.T02_LoginTest - **************Staring home page
+22:09:46.343 [TestNG-tests-1] INFO  testCases.T02_LoginTest - **************clicked login link
+22:11:43.794 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vivek\eclipse-workspaceSeleniumRestAssured\openCartecom1.1\crossbrowser.xml
+
+22:11:50.259 [TestNG-tests-3] INFO  testCases.TC01_AccountRegistrationTest - *****Starting TC01_AccountRegistrationTest 
+22:11:50.259 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest - *****Starting TC01_AccountRegistrationTest 

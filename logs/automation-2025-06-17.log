@@ -1,0 +1,53 @@
+08:23:56.702 [TestNG-tests-1] ERROR testCases.TC01_AccountRegistrationTest - test failed
+08:23:56.711 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest - ***** Finished TC01_AccountRegistrationTest *****
+08:24:01.897 [TestNG-tests-1] INFO  testCases.T02_LoginTest - **************Staring T02_LoginTest
+08:24:01.898 [TestNG-tests-1] INFO  testCases.T02_LoginTest - **************Staring home page
+08:24:03.383 [TestNG-tests-2] INFO  testCases.T02_LoginTest - **************Staring T02_LoginTest
+08:24:03.383 [TestNG-tests-2] INFO  testCases.T02_LoginTest - **************Staring home page
+08:24:03.399 [TestNG-tests-3] INFO  testCases.T02_LoginTest - **************Staring T02_LoginTest
+08:24:03.399 [TestNG-tests-3] INFO  testCases.T02_LoginTest - **************Staring home page
+08:24:04.508 [TestNG-tests-1] INFO  testCases.T02_LoginTest - **************clicked login link
+08:31:14.765 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vivek\eclipse-workspaceSeleniumRestAssured\openCartecom1.1\crossbrowser.xml
+
+08:31:20.000 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest - *****Starting TC01_AccountRegistrationTest 
+08:31:21.434 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest - *****Starting TC01_AccountRegistrationTest 
+08:31:21.458 [TestNG-tests-3] INFO  testCases.TC01_AccountRegistrationTest - *****Starting TC01_AccountRegistrationTest 
+08:31:21.720 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my account link 
+08:31:21.938 [TestNG-tests-3] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my account link 
+08:31:22.151 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my account link 
+08:31:22.917 [TestNG-tests-3] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my register link 
+08:31:22.933 [TestNG-tests-1] ERROR testCases.TC01_AccountRegistrationTest - test failed
+08:31:22.933 [TestNG-tests-2] ERROR testCases.TC01_AccountRegistrationTest - test failed
+08:31:22.939 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest - ***** Finished TC01_AccountRegistrationTest *****
+08:31:22.939 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest - ***** Finished TC01_AccountRegistrationTest *****
+08:31:23.848 [TestNG-tests-3] ERROR testCases.TC01_AccountRegistrationTest - test failed
+08:31:23.852 [TestNG-tests-3] INFO  testCases.TC01_AccountRegistrationTest - ***** Finished TC01_AccountRegistrationTest *****
+08:31:28.663 [TestNG-tests-1] INFO  testCases.T02_LoginTest - **************Staring T02_LoginTest
+08:31:28.663 [TestNG-tests-1] INFO  testCases.T02_LoginTest - **************Staring home page
+08:31:30.695 [TestNG-tests-2] INFO  testCases.T02_LoginTest - **************Staring T02_LoginTest
+08:31:30.697 [TestNG-tests-2] INFO  testCases.T02_LoginTest - **************Staring home page
+08:31:30.714 [TestNG-tests-3] INFO  testCases.T02_LoginTest - **************Staring T02_LoginTest
+08:31:30.714 [TestNG-tests-3] INFO  testCases.T02_LoginTest - **************Staring home page
+08:31:31.775 [TestNG-tests-3] INFO  testCases.T02_LoginTest - **************clicked login link
+10:03:33.270 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vivek\eclipse-workspaceSeleniumRestAssured\openCartecom1.1\master.xml
+
+10:03:39.537 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+10:03:45.146 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+10:03:45.153 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+10:03:50.854 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+10:03:50.858 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+10:04:05.308 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+10:04:05.311 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+10:04:11.107 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+10:04:11.110 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+10:04:24.908 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+10:04:24.911 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+10:04:30.836 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+10:04:30.839 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+10:04:36.099 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:04:41.326 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vivek\eclipse-workspaceSeleniumRestAssured\openCartecom1.1\master.xml
+
+13:04:46.689 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******

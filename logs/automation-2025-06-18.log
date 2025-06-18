@@ -1,0 +1,52 @@
+13:04:52.906 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:04:52.922 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+13:05:00.785 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:05:00.790 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+13:05:18.485 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:05:18.485 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+13:05:24.063 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:05:24.065 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+13:05:37.936 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:05:37.939 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+13:05:44.121 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:05:44.123 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+13:05:49.125 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:37:06.202 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vivek\eclipse-workspaceSeleniumRestAssured\openCartecom1.1\grouping.xml
+
+13:37:10.363 [main] INFO  testCases.TC01_AccountRegistrationTest - *****Starting TC01_AccountRegistrationTest 
+13:37:10.469 [main] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my account link 
+13:37:11.210 [main] INFO  testCases.TC01_AccountRegistrationTest - *****clicked on my register link 
+13:37:13.126 [main] INFO  testCases.TC01_AccountRegistrationTest - *****provided customer details 
+13:37:13.165 [main] INFO  testCases.TC01_AccountRegistrationTest - ***** Finished TC01_AccountRegistrationTest *****
+13:37:16.715 [main] INFO  testCases.TC02_LoginTest - **************Staring T02_LoginTest
+13:37:16.715 [main] INFO  testCases.TC02_LoginTest - **************Staring home page
+13:37:17.255 [main] INFO  testCases.TC02_LoginTest - **************clicked login link
+13:37:18.185 [main] INFO  testCases.TC02_LoginTest - **************clicked login button
+15:08:58.725 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vivek\eclipse-workspaceSeleniumRestAssured\openCartecom1.1\master.xml
+
+15:09:05.298 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+15:09:10.977 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+15:09:10.991 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+15:09:16.630 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+15:09:16.635 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+15:09:31.077 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+15:09:31.082 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+15:09:36.811 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+15:09:36.815 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+15:09:51.275 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+15:09:51.278 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+15:09:57.074 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+15:09:57.077 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+15:10:01.898 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+10:03:28.016 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+10:03:33.607 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+10:03:33.623 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+10:03:39.263 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+10:03:39.265 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+10:03:53.707 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+10:03:53.707 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+10:03:59.128 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+10:03:59.130 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+10:04:12.894 [main] INFO  testCases.TC03_LoginDDT.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
